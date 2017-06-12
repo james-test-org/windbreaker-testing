@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Druotic/greenkeeper-testing#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "greenkeeper-dep-test": "4.0.2"
+    "greenkeeper-dep-test": "4.2.3"
   },
   "devDependencies": {
     "chai": "^4.0.2",
